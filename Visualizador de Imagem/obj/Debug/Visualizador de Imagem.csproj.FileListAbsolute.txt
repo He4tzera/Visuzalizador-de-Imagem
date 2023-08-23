@@ -1,0 +1,11 @@
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\bin\Debug\Visualizador de Imagem.exe.config
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\bin\Debug\Visualizador de Imagem.exe
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\bin\Debug\Visualizador de Imagem.pdb
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.csproj.AssemblyReference.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.csproj.SuggestedBindingRedirects.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador_de_Imagem.Form1.resources
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador_de_Imagem.Properties.Resources.resources
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.csproj.GenerateResource.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.csproj.CoreCompileInputs.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.exe
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Visualizador de Imagem\Visualizador de Imagem\obj\Debug\Visualizador de Imagem.pdb
